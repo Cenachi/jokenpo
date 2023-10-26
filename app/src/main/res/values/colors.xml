@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tesoura">#A6D189</color>
+    <color name="pedra">#FBD76A</color>
+    <color name="papel">#F7A278</color>
+    <color name="newPlayer">#76716E</color>
+</resources>

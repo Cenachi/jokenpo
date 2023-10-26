@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jokenpo</string>
+    <string name="title">Jokenpô</string>
+    <string name="tesoura">Tesoura</string>
+    <string name="pedra">Pedra</string>
+    <string name="papel">Papel</string>
+    <string name="userChoice">Sua Escolha:</string>
+    <string name="cpuChoice">Escolha CPU:</string>
+    <string name="result">Você X CPU</string>
+    <string name="score">"0  :  0"</string>
+    <string name="newPlayer">Nova Partida</string>
+</resources>
